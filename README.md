@@ -1,2 +1,3 @@
 # git_test
-This is the second line in this file.
+My first GitHub repo(not actually).
+Hello Odin!
